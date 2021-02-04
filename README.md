@@ -1,1 +1,1 @@
-# imc2021
+Introduction to Music Computing course materials
